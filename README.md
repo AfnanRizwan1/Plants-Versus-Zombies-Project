@@ -1,4 +1,4 @@
-# Centipede Game 🕹️
+# Plants Versus Zombies Game 🕹️
 A modern take on the iconic Plants vs. Zombies game! This project delivers a feature-rich and captivating rendition of the classic tower defense game, packed with exciting gameplay mechanics, strategic challenges, and visually appealing graphics.
 
 # Features 🚀
@@ -19,7 +19,7 @@ Audio Library: Integrated SFML audio for immersive sound effects and music.
 
 # How to Play 🎮
 Clone the repository:
-git clone https://github.com/MuhammadTalhaRashid/Centipede_Game.git  
+git clone https://github.com/AfnanRizwan1/PlantsVersusZombies_Game.git  
 Navigate to the project directory and build the game using your preferred IDE or build tool.
 Launch the game and use the controls to move your character and shoot at the centipedes and mushrooms.
 Avoid poisonous mushrooms and defeat the black poisonous centipede to achieve high scores!
